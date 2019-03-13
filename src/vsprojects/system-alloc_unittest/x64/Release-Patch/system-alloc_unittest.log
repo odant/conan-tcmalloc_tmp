@@ -1,0 +1,6 @@
+﻿  system-alloc_unittest.cc
+  testutil.cc
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  system-alloc_unittest.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\system-alloc_unittest.exe

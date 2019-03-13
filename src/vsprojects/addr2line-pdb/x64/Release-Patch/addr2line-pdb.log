@@ -1,0 +1,5 @@
+﻿  addr2line-pdb.c
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  addr2line-pdb.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\addr2line-pdb.exe

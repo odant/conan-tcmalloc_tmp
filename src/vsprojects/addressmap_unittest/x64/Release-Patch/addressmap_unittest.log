@@ -1,0 +1,12 @@
+﻿  dynamic_annotations.c
+  logging.cc
+  spinlock.cc
+  spinlock_internal.cc
+  sysinfo.cc
+  addressmap_unittest.cc
+  port.cc
+     Creating library D:\subprojects\gperftools\x64\Release-Patch\addressmap_unittest.lib and object D:\subprojects\gperftools\x64\Release-Patch\addressmap_unittest.exp
+  Generating code
+  All 249 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  addressmap_unittest.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\addressmap_unittest.exe

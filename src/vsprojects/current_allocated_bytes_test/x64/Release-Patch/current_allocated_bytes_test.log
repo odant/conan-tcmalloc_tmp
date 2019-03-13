@@ -1,0 +1,5 @@
+﻿  current_allocated_bytes_test.cc
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  current_allocated_bytes_test.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\current_allocated_bytes_test.exe

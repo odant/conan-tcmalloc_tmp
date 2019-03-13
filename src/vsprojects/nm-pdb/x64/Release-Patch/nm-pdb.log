@@ -1,0 +1,5 @@
+﻿  nm-pdb.c
+  Generating code
+  Finished generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  nm-pdb.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\nm-pdb.exe

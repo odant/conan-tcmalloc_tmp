@@ -1,0 +1,5 @@
+﻿  malloc_extension_test.cc
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  malloc_extension_test.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\malloc_extension_test.exe

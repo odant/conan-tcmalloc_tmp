@@ -1,0 +1,11 @@
+﻿  tcmalloc_unittest.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+d:\subprojects\gperftools\src\tests\tcmalloc_unittest.cc(362): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+d:\subprojects\gperftools\src\tests\tcmalloc_unittest.cc(1154): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+d:\subprojects\gperftools\src\tests\tcmalloc_unittest.cc(1155): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  testutil.cc
+  Generating code
+  All 471 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tcmalloc_minimal_unittest.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\tcmalloc_minimal_unittest.exe

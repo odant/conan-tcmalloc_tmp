@@ -1,0 +1,7 @@
+﻿  sampler_test.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  Generating code
+  All 223 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sampler_test.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\sampler_test.exe

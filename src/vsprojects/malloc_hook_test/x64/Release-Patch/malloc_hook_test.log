@@ -1,0 +1,8 @@
+﻿  malloc_hook_test.cc
+d:\subprojects\gperftools\src\tests\malloc_hook_test.cc(111): warning C4312: 'reinterpret_cast': conversion from 'int' to 'MallocHook::NewHook' of greater size
+d:\subprojects\gperftools\src\tests\malloc_hook_test.cc(115): warning C4312: 'reinterpret_cast': conversion from 'int' to 'MallocHook::NewHook' of greater size
+  testutil.cc
+  Generating code
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  malloc_hook_test.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\malloc_hook_test.exe

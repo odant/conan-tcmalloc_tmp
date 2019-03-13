@@ -1,0 +1,67 @@
+﻿  dynamic_annotations.c
+  logging.cc
+  low_level_alloc.cc
+  spinlock.cc
+  spinlock_internal.cc
+  sysinfo.cc
+  central_freelist.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  common.cc
+  fake_stacktrace_scope.cc
+  heap-profile-table.cc
+  internal_logging.cc
+  malloc_extension.cc
+  malloc_hook.cc
+  memory_region_map.cc
+  page_heap.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  raw_printer.cc
+  sampler.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  span.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  stacktrace.cc
+  stack_trace_table.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  static_vars.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  Generating Code...
+  Compiling...
+  symbolize.cc
+  thread_cache.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+  ia32_modrm_map.cc
+  ia32_opcode_map.cc
+d:\subprojects\gperftools\src\windows\ia32_opcode_map.cc(343): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+d:\subprojects\gperftools\src\windows\ia32_opcode_map.cc(947): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  mini_disassembler.cc
+  patch_functions.cc
+d:\subprojects\gperftools\src\stack_trace_table.h(80): warning C4251: 'tcmalloc::StackTraceTable::allocator_': class 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>' needs to have dll-interface to be used by clients of class 'tcmalloc::StackTraceTable'
+  d:\subprojects\gperftools\src\stack_trace_table.h(80): note: see declaration of 'tcmalloc::STLPageHeapAllocator<tcmalloc::StackTraceTable::Entry,void>'
+d:\subprojects\gperftools\src\tcmalloc.cc(1356): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1386): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1395): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1431): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1500): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1535): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1582): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1587): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1768): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1791): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1844): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1871): warning C4141: 'inline': used more than once
+d:\subprojects\gperftools\src\tcmalloc.cc(1895): warning C4141: 'inline': used more than once
+  port.cc
+  preamble_patcher.cc
+  preamble_patcher_with_stub.cc
+  system-alloc.cc
+  Generating Code...
+     Creating library D:\subprojects\gperftools\Win32\Debug\tcmallocd.lib and object D:\subprojects\gperftools\Win32\Debug\tcmallocd.exp
+  libtcmalloc_minimal.vcxproj -> D:\subprojects\gperftools\Win32\Debug\tcmallocd.dll

@@ -1,0 +1,6 @@
+﻿  testutil.cc
+  thread_dealloc_unittest.cc
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  thread_dealloc_unittest.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\thread_dealloc_unittest.exe

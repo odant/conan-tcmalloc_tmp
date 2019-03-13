@@ -1,0 +1,16 @@
+﻿  dynamic_annotations.c
+  logging.cc
+  low_level_alloc.cc
+  spinlock.cc
+  spinlock_internal.cc
+  sysinfo.cc
+  fake_stacktrace_scope.cc
+  malloc_hook.cc
+  stacktrace.cc
+  low_level_alloc_unittest.cc
+  port.cc
+     Creating library D:\subprojects\gperftools\x64\Release-Patch\low_level_alloc_unittest.lib and object D:\subprojects\gperftools\x64\Release-Patch\low_level_alloc_unittest.exp
+  Generating code
+  All 443 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  low_level_alloc_unittest.vcxproj -> D:\subprojects\gperftools\x64\Release-Patch\low_level_alloc_unittest.exe
