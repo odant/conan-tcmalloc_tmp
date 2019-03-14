@@ -6,8 +6,10 @@ class PackageTestConan(ConanFile):
     generators = "cmake"
 
     def build(self):
-        cmake = CMake(self, msbuild_verbosity="normal")
+        cmake = CMake(self, build_type=self.settings.build_type, msbuild_verbosity="normal")
         cmake.verbose = True
+        if (cmake.is_multi_configuration):
+            cmake.definitions["CMAKE_BUILD_TYPE"] = cmake.build_type
         cmake.configure()
         cmake.build()
 
